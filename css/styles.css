@@ -91,3 +91,24 @@ header .container img {
 	align-items: center;
 	justify-content: center;
 }
+
+.s-tags .container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.s-tags .container ul{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.s-tags .container ul li{
+	margin: 1rem 0;
+}
+
+.s-tags .container ul li strong{
+	font-size: 1.6rem;
+}
